@@ -11,5 +11,14 @@
   "dependencies": {
     "inquirer": "^8.2.4"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmelan000/I-Hate-Doing-READMEs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmelan000/I-Hate-Doing-READMEs/issues"
+  },
+  "homepage": "https://github.com/mmelan000/I-Hate-Doing-READMEs#readme"
 }
