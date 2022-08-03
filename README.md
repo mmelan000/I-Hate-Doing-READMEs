@@ -23,7 +23,7 @@ Download and run with Node.
 
 ```node index.js```  
 
-![App Screenshot](./assets/images/appSS1.png)
+![App Screenshot](./assets/images/SS1.png)
 
 
 ## License  
