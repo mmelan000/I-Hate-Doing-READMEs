@@ -20,29 +20,24 @@ const licenses = [
     url: 'https://opensource.org/licenses/MIT'
   },
 ]
-
+// checks to see if there is a license, if so, adds section to ToC
 function licenseCheck(license) {
   if (license === 'None'){return ''}
   return `7. [License](#license)` 
 }
-// TODO: Create a function that returns a license badge based on which license is passed in
-// If there is no license, return an empty string
+// renders license badge pulling from const licenses
 function renderLicenseBadge(license) {
-if (license === 'None'){return ''}
-const filterLicense = licenses.find(element => element.name === license);
-return `[![License](${filterLicense.badge})](${filterLicense.url})`
+  if (license === 'None'){return ''}
+  const filterLicense = licenses.find(element => element.name === license);
+  return `[![License](${filterLicense.badge})](${filterLicense.url})`
 }
-
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
+// renders license link pulling from const licenses
 function renderLicenseLink(license) {
   if (license === 'None'){return '';}
   const filterLicense = licenses.find(element => element.name === license);
   return `[${filterLicense.name}](${filterLicense.url})`;  
 }
-
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// renders license section if there is a license
 function renderLicenseSection(license) {
   if (license === 'None'){return ''}
   return `
@@ -52,8 +47,7 @@ function renderLicenseSection(license) {
 
 `
 }
-
-// TODO: Create a function to generate markdown for README
+// generates markdown, inserting passthough data into correct spots
 function generateMarkdown(data) {
   return `
 # ${data.title}  

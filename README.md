@@ -1,4 +1,3 @@
-
 # I Hate Doing READMEs  
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 
@@ -42,4 +41,3 @@ If you have any questions, please reach out to me either ong Github or by Email.
 ## License  
 
 - [GNU](https://www.gnu.org/licenses/gpl-3.0)  
-    
