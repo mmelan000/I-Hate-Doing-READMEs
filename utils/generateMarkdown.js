@@ -36,14 +36,14 @@ ${renderLicenseBadge(data.license)}
 
 ${data.description}  
 
-##Table of Contents  
-1. [Description](${githubLink}/README#description)  
-2. [Installation](${githubLink}/README#installation)  
-3. [Usage](${githubLink}/README#usage)  
-4. [License](${githubLink}/README#license)  
-5. [Contributing](${githubLink}/README#contributing)  
-6. [Tests](${githubLink}/README#tests)  
-7. [Questions](${githubLink}/README#questions)  
+## Table of Contents  
+**1.** [Description](${githubLink}/README#description)  
+**2.** [Installation](${githubLink}/README#installation)  
+**3.** [Usage](${githubLink}/README#usage)  
+**4.** [License](${githubLink}/README#license)  
+**5.** [Contributing](${githubLink}/README#contributing)  
+**6.** [Tests](${githubLink}/README#tests)  
+**7.** [Questions](${githubLink}/README#questions)  
 
 ## Installation  
 

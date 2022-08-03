@@ -4,16 +4,16 @@
 
 ## Description  
 
-I am setting out to write a program that will make professional READMEs automatically with only a few questions.  
+This is a program that will make professional READMEs automatically with only a few questions.  
 
-##Table of Contents  
-1. [Description](https://github.com/mmelan000/README#description)  
-2. [Installation](https://github.com/mmelan000/README#installation)  
-3. [Usage](https://github.com/mmelan000/README#usage)  
-4. [License](https://github.com/mmelan000/README#license)  
-5. [Contributing](https://github.com/mmelan000/README#contributing)  
-6. [Tests](https://github.com/mmelan000/README#tests)  
-7. [Questions](https://github.com/mmelan000/README#questions)  
+## Table of Contents  
+**1.** [Description](https://github.com/mmelan000/README#description)  
+**2.** [Installation](https://github.com/mmelan000/README#installation)  
+**3.** [Usage](https://github.com/mmelan000/README#usage)  
+**4.** [License](https://github.com/mmelan000/README#license)  
+**5.** [Contributing](https://github.com/mmelan000/README#contributing)  
+**6.** [Tests](https://github.com/mmelan000/README#tests)  
+**7.** [Questions](https://github.com/mmelan000/README#questions)  
 
 ## Installation  
 
