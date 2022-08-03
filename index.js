@@ -55,7 +55,8 @@ const questions = [{
         'BSD-2',
         'BSD-3',
         'GNU',
-        'MIT'
+        'MIT',
+        'None'
     ],
 },
 {
