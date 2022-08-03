@@ -21,11 +21,15 @@ Download and run with Node.
 
 ## Usage  
 
-node index.js  
+```node index.js```  
+
+![App Screenshot](./assets/images/appSS1.png)
+
 
 ## License  
 
 - [MIT](https://opensource.org/licenses/MIT)  
+
 
 ## Contributing  
 
