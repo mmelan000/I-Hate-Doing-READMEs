@@ -29,7 +29,7 @@ node index.js
 
 ## Contributing  
 
-Follow best practices for class/id naming conventions, indentation, quality comments, etc.  
+Follow best practices for naming conventions, indentation, quality comments, etc.  
 
 ## Tests  
 
