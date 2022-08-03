@@ -1,6 +1,6 @@
 
 # I Hate Doing READMEs  
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
 
 ## Description  
 
@@ -10,10 +10,10 @@ This is a program that will make professional READMEs automatically with only a 
 1. [Description](#description)  
 2. [Installation](#installation)  
 3. [Usage](#usage)  
-4. [License](#license)  
+4. [Questions](#questions)  
 5. [Contributing](#contributing)  
 6. [Tests](#tests)  
-7. [Questions](#questions)  
+7. [License](#license)
 
 ## Installation  
 
@@ -24,12 +24,6 @@ Download and run with Node.
 ```node index.js```  
 
 ![App Screenshot](./assets/images/SS1.png)
-
-
-## License  
-
-- [MIT](https://opensource.org/licenses/MIT)  
-
 
 ## Contributing  
 
@@ -45,4 +39,7 @@ If you have any questions, please reach out to me either ong Github or by Email.
   - **Github:** [mmelan000](https://github.com/mmelan000)
   - **Email:** [m.melanson000@gmail.com](mailto:m.melanson000@gmail.com)
 
+## License  
 
+- [GNU](https://www.gnu.org/licenses/gpl-3.0)  
+    
