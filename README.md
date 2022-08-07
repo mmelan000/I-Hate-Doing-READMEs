@@ -22,6 +22,8 @@ This is a program that will make professional READMEs automatically with only a 
 
 ## Usage  
 
+**[Walkthrough Video](https://drive.google.com/file/d/16kG3nYP8nuznHHM4zX5IJNo8nJDFk0n6/view?usp=sharing)**
+
 ```node index.js```  
 
 ![App Screenshot](./assets/images/SS1.png)
