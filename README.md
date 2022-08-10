@@ -16,9 +16,13 @@ This is a program that will make professional READMEs automatically with only a 
 
 ## Installation  
 
-Download and run with Node.  
+1. Download.
+2. Use NPM to install inquirer@8.2.4  
+3. Run with Node.
 
 ## Usage  
+
+**[Walkthrough Video](https://drive.google.com/file/d/16kG3nYP8nuznHHM4zX5IJNo8nJDFk0n6/view?usp=sharing)**
 
 ```node index.js```  
 
