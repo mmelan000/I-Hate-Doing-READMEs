@@ -104,7 +104,7 @@ const questions = [
 },];
 //writes README file with data passed from init() and generateMD()
 function writeToFile(data) {
-    fs.writeFile('README.md', data)
+    fs.writeFile('./dist/README.md', data)
 }
 // asks questions, sends answers off to generateMD then to writeToFile
 function init() {
