@@ -32,7 +32,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Questions  
 
-If you have any questions, please reach out to me either ong Github or by Email.
+If you have any questions, please reach out to me either on Github or by Email.
   - **Github:** [Lorem_ipsum](https://github.com/Lorem_ipsum)
   - **Email:** [Lorem@ipsum.com](mailto:Lorem@ipsum.com)
 

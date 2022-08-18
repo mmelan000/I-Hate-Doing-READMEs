@@ -83,7 +83,7 @@ ${data.testing}
 
 ## Questions  
 
-If you have any questions, please reach out to me either ong Github or by Email.
+If you have any questions, please reach out to me either on Github or by Email.
   - **Github:** [${data.github}](https://github.com/${data.github})
   - **Email:** [${data.email}](mailto:${data.email})
 
